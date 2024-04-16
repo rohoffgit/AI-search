@@ -19,6 +19,11 @@ In a nutshell:
 
 - Push is the DIY approach, where documents get added directly to the index. In this approach your code is responsible to chunk, emmbed and otherwise prepare the document to be added.
 
+### Search
+
+Once the documents are indexed, they can be searched using vector, hybrid (keyword + vector) and semantic ranking.
+See search.ipynb
+
 ### Helper functions
 
 pull_reindex.ipynb - Trigger reindex of certain documents (blobs) in the pull approach.
