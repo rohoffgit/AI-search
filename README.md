@@ -27,3 +27,13 @@ See search.ipynb
 ### Helper functions
 
 pull_reindex.ipynb - Trigger reindex of certain documents (blobs) in the pull approach.
+
+# Disclaimer
+
+This is personal sample code. Please use as-is without any express or implied warranties.
+
+# Official Docs & Samples
+
+For official docs and samples please see
+- https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search
+- https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python/code/integrated-vectorization/azure-search-integrated-vectorization-sample.ipynb
